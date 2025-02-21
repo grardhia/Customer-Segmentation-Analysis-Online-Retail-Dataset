@@ -11,7 +11,7 @@ In this project, we will analyze patterns in the *Online Retail Dataset* from th
 This project contains :
 
 1. **Dashboard (PDF)**  
-   - A comprehensive dashboard developed by Microsoft Power BI to explore the dataset, covering key aspects such as customers, orders, products, and invoice dates.
+   - A comprehensive dashboard developed using Microsoft Power BI to explore the dataset, covering key aspects such as customers, orders, products, and invoice dates.
    - Includes various visualizations to help understand data patterns and trends.  
 
 2. **Customer Segmentation Analysis (Notebook)**  
